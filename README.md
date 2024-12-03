@@ -9,12 +9,12 @@
 Задание: сверстать приложение по макету дизайна в Figma
 
 
-![alt text](assets/images/scrn1.png)
+![alt text](assets/images/scrn1.PNG)
 
-![alt text](assets/images/scrn2.png)
+![alt text](assets/images/scrn2.PNG)
 
-![alt text](assets/images/scrn3.png)
+![alt text](assets/images/scrn3.PNG)
 
-![alt text](assets/images/scrn4.png)
+![alt text](assets/images/scrn4.PNG)
 
-![alt text](assets/images/scrn5.png)
+![alt text](assets/images/scrn5.PNG)
